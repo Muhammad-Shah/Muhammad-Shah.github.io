@@ -16,7 +16,7 @@ Portfolio Website using HTML CSS JS and JQ.
 
 ## Sneak Peek of Site 🙈 :
 
-<img src="" />
+<img src="demo.png" />
 
 &nbsp;&nbsp;<a href="https://muhammad-shah.github.io/">Live-Watch</a>
 
