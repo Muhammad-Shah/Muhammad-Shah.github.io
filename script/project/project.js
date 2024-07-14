@@ -1,33 +1,48 @@
 var dataJson = [
   {
-    img: "https://cdn-icons-png.flaticon.com/128/644/644667.png",
+    img: "https://cdn-icons-png.flaticon.com/512/11066/11066847.png",
     title: "HealthConnect -- AI",
     paragraph: "Personalized Doctors Recommendation Bot",
-    url: "#",
+    url: "https://healthconnect-ai.streamlit.app/",
   },
   {
-    img: "https://cdn-icons-png.flaticon.com/128/5806/5806364.png",
-    title: "",
-    paragraph: "Quizec : is The Quiz Game For Android.",
-    url: "https://play.google.com/store/apps/details?id=in.sohezsoft.quiz.app",
+    img: "https://cdn-icons-png.flaticon.com/512/16864/16864339.png",
+    title: "FAQ -Bot",
+    paragraph: "FAQ Bot: Virtual Assistant Web App for ecommerce",
+    url: "https://faq-assistant.vercel.app/",
   },
   {
-    img: "https://cdn-icons-png.flaticon.com/128/1021/1021264.png",
-    title: "Tic-Tac-Toe",
-    paragraph: "Tic-Tac-Toe : Js/HTML/CSS tic tac toe Game. ",
-    url: "https://muhammad-shah.github.io/tic-tac-toe/",
+    img: "https://cdn-icons-png.flaticon.com/512/2593/2593627.png",
+    title: "FAQ -Bot",
+    paragraph: "FAQ Bot: Online Customer Support Service Bot",
+    url: "https://faq--bot.streamlit.app/",
   },
   {
-    img: "https://cdn-icons-png.flaticon.com/128/2156/2156009.png",
-    title: "M.P.C",
-    paragraph: "Marks Percentage Calculator : Download Result.",
-    url: "https://muhammad-shah.github.io/Marks-Percentage-Calculator/",
+    img: "https://cdn-icons-png.flaticon.com/128/708/708881.png",
+    title: "Story Generation",
+    paragraph: "Story Generation: AI powered Story Generator Web App",
+    url: "https://story-generation.vercel.app/",
   },
+  {
+    img: "https://cdn-icons-png.flaticon.com/512/16210/16210722.png",
+    title: "Sentiment Analysis",
+    paragraph:
+      "Sentiment Analysis: Fine-Tuned Tiny-Bert Model for Sentiment Analysis",
+    url: "https://reviews-sentiment-analysis.streamlit.app/",
+  },
+
+  {
+    img: "https://cdn-icons-png.flaticon.com/512/15646/15646725.png",
+    title: "Imagine",
+    paragraph: "Imagine: Open Source AI Image Generator",
+    url: "https://imagineai.streamlit.app/",
+  },
+
   {
     img: "https://cdn-icons-png.flaticon.com/128/2190/2190654.png",
     title: "Smart Suvichar",
     paragraph: "Smart Suvichar: Open Source java Aplication",
-    url: "https://github.com/sohez/smart-vichar",
+    url: "#",
   },
 ];
 
