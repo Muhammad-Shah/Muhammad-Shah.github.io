@@ -24,6 +24,13 @@ var dataJson = [
     url: "https://story-generation.vercel.app/",
   },
   {
+    img: "https://cdn-icons-png.flaticon.com/512/17178/17178269.png",
+    title: "AIQuizic",
+    paragraph:
+      "Interview Preparation: AI powered Quiz Generator for interview preparation",
+    url: "https://ai-mcq-gen.streamlit.app/",
+  },
+  {
     img: "https://cdn-icons-png.flaticon.com/512/16210/16210722.png",
     title: "Sentiment Analysis",
     paragraph:
