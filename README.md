@@ -1,29 +1,27 @@
-# MY PORTFOLIO
+# muhammad-shah.github.io
 
-## Overview
+Personal site of Muhammad Shah — AI software engineer at HumAI, Dubai.
+Live at <https://muhammad-shah.github.io/>.
 
-Portfolio Website using HTML CSS JS and JQ.
+## Stack
 
-## Features
+Hand-written HTML, CSS and a few lines of JavaScript. No framework, no build step, no tracking.
 
-- Responsive
-- Fully SEO Optimised
-- AJAX Requests
-- Light-weight
-- Simple but Awsm !
-- Multiple Theme Color
-- Dark Mode
+- `index.html` — the page (content lives here; edit it directly)
+- `css/site.css` — design tokens and layout
+- `js/site.js` — Dubai clock and scroll-reveal; the page is complete without it
+- `assets/` — favicon, touch icon and the Open Graph image
+- `404.html`, `robots.txt`, `sitemap.xml`
 
-## Sneak Peek of Site 🙈 :
+Fonts are loaded from Google Fonts: Bricolage Grotesque, Source Serif 4 and JetBrains Mono.
 
-<img src="demo.png" />
+## Updating
 
-&nbsp;&nbsp;<a href="https://muhammad-shah.github.io/">Live-Watch</a>
+1. Edit `index.html`. The career chart in the Timeline section positions each bar with
+   inline `left` / `width` percentages on a January 2021 → December 2026 axis
+   (one month = 1/72 of the width).
+2. Bump the `Updated` date in the footer, the `v2026.08` tag in the hero panel and
+   `<lastmod>` in `sitemap.xml`.
+3. Push to `master` — GitHub Pages serves the root.
 
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-&nbsp;&nbsp;<a href="https://www.instagram.com/Muahammad/">Instagram</a>
-
-© 2021 Muhammad Shah
+© 2026 Muhammad Shah
