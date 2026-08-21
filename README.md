@@ -5,7 +5,8 @@ Live at <https://muhammad-shah.github.io/>.
 
 ## Stack
 
-Hand-written HTML, CSS and a few lines of JavaScript. No framework, no build step, no tracking.
+Hand-written HTML, CSS and a few lines of JavaScript. No framework, no build step, no analytics
+(the only third-party request is Google Fonts).
 
 - `index.html` — the page (content lives here; edit it directly)
 - `css/site.css` — design tokens and layout

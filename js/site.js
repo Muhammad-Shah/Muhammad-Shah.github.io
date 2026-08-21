@@ -6,7 +6,7 @@
   const dubaiTime = new Intl.DateTimeFormat('en-GB', {
     hour: '2-digit',
     minute: '2-digit',
-    hour12: false,
+    hourCycle: 'h23',
     timeZone: 'Asia/Dubai',
   });
 
@@ -15,7 +15,7 @@
     if (!nodes.length) return;
     const tick = () => nodes.forEach((node) => { node.textContent = dubaiTime.format(new Date()); });
     tick();
-    window.setInterval(tick, 30000);
+    window.setInterval(tick, 15000);
   };
 
   const revealAll = (targets) => targets.forEach((target) => target.classList.add('in'));
