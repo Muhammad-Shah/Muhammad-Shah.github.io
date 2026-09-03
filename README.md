@@ -10,8 +10,9 @@ Hand-written HTML, CSS and a few lines of JavaScript. No framework, no build ste
 
 - `index.html` — the page (content lives here; edit it directly)
 - `css/site.css` — design tokens and layout
-- `js/site.js` — Dubai clock and scroll-reveal; the page is complete without it
+- `js/site.js` — Dubai clock, scroll-reveal, scroll progress, counters and the request-trace demo; the page is complete without it
 - `assets/` — favicon, touch icon and the Open Graph image
+- `assets/work/` — Huscribe screens (cropped from the public App Store / Google Play listings) and the Huscribe and Mairit marks
 - `404.html`, `robots.txt`, `sitemap.xml`
 
 Fonts are loaded from Google Fonts: Bricolage Grotesque, Source Serif 4 and JetBrains Mono.
